@@ -47,7 +47,7 @@ We use a wide range of technologies to build our projects:
 
 ## 📜 License
 
-All our projects are open source and released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code in accordance with the license terms.
+All our projects are open source and released under the [GNU GENERAL PUBLIC LICENSE](LICENSE). Feel free to use, modify, and distribute the code in accordance with the license terms.
 
 ---
 
