@@ -39,7 +39,7 @@ We welcome contributions from developers, designers, and enthusiasts! Here’s h
 
 We use a wide range of technologies to build our projects:
 - **Programming Languages**: Python, JavaScript, C#
-- **Web development technologies**: Html, CSS, JS
+- **Web development technologies**: Html, CSS, JS, Github Pages
 - **Frameworks**: Unity, React, Flask, Tkinter
 - **Version Control**: Git and GitHub
 - **Cloud Services**: AWS, Azure
