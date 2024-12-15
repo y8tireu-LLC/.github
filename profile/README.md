@@ -39,7 +39,8 @@ We welcome contributions from developers, designers, and enthusiasts! Here’s h
 
 We use a wide range of technologies to build our projects:
 - **Programming Languages**: Python, JavaScript, C#
-- **Frameworks**: Unity, React, Flask
+- **Web development technologies**: Html, CSS, JS
+- **Frameworks**: Unity, React, Flask, Tkinter
 - **Version Control**: Git and GitHub
 - **Cloud Services**: AWS, Azure
 
@@ -53,7 +54,8 @@ All our projects are open source and released under the [GNU GENERAL PUBLIC LICE
 
 ## 🌐 Connect with Us
 
-- **Website**: [y8tireu.github.io](http://y8tireu.github.io)
+- **Website**: [y8tireu.github.io](https://y8tireu.github.io)
+- **Github Profile**: [y8tireu](https://github.com/y8tireu)
 ---
 
 Let’s build something amazing together! 🎉
