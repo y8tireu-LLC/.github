@@ -17,6 +17,8 @@
 ### 🎮 Games
 - **Legends Unbound**: A thrilling multiplayer adventure game with customizable characters and immersive gameplay.
 - **Code Quest**: An educational game to help beginners learn coding through interactive puzzles.
+- **NovaAI**: An AI that uses duckduckgo and has some preloaded questions and a calculator for users to use.
+
 
 ### 📱 Apps
 - **EasyTasker**: A productivity app to help you organize tasks and projects effortlessly.
