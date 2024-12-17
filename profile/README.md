@@ -61,4 +61,4 @@ All our projects are open source and released under the [GNU GENERAL PUBLIC LICE
 ---
 
 Let’s build something amazing together! 🎉
-
+Disclaimer: This isn't an actual company. These are just some projects that I, my friends, and my dad are working on.
