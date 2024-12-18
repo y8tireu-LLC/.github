@@ -1,6 +1,6 @@
 # Welcome to y8tireu-LLC's GitHub Organization!
 
-**y8tireu-LLC** is an open-source initiative dedicated to creating high-quality games and applications that make technology accessible and enjoyable for everyone. Our mission is to empower developers and users worldwide by building innovative, community-driven solutions.
+**y8tireu-LLC** is an open-source initiative dedicated to creating high-quality games and applications that make technology accessible and enjoyable for everyone. We aim to empower developers and users worldwide by building innovative, community-driven solutions.
 
 ---
 
@@ -31,8 +31,8 @@
 We welcome contributions from developers, designers, and enthusiasts! Here’s how you can get involved:
 
 1. **Fork and Clone**: Fork the repository of the project you’re interested in and clone it locally.
-2. **Create Issues**: Spot a bug or have a feature suggestion? Open an issue and share your thoughts.
-3. **Submit Pull Requests**: Implement changes and submit a pull request with a clear description of your work.
+2. **Create Issues**: Spot a bug or have a feature suggestion. Open an issue and share your thoughts.
+3. **Submit Pull Requests**: Implement changes and submit a pull request with a clear work description.
 4. **Join Discussions**: Share ideas and collaborate with other contributors in the discussions section.
 
 ---
@@ -41,7 +41,7 @@ We welcome contributions from developers, designers, and enthusiasts! Here’s h
 
 We use a wide range of technologies to build our projects:
 - **Programming Languages**: Python, JavaScript, C#
-- **Web development technologies**: Html, CSS, JS, Github Pages
+- **Web development technologies**: HTML, CSS, JS, Github Pages
 - **Frameworks**: Unity, React, Flask, Tkinter
 - **Version Control**: Git and GitHub
 - **Cloud Services**: AWS, Azure
@@ -50,7 +50,7 @@ We use a wide range of technologies to build our projects:
 
 ## 📜 License
 
-All our projects are open source and released under the [GNU GENERAL PUBLIC LICENSE](LICENSE). Feel free to use, modify, and distribute the code in accordance with the license terms.
+All our projects are open source and released under the [GNU GENERAL PUBLIC LICENSE](LICENSE). Please feel free to use, modify, and distribute the code according to the license terms.
 
 ---
 
@@ -61,4 +61,4 @@ All our projects are open source and released under the [GNU GENERAL PUBLIC LICE
 ---
 
 Let’s build something amazing together! 🎉
-Disclaimer: This isn't an actual company. These are just some projects that I, my friends, and my dad are working on.
+Disclaimer: This isn't an actual company. These are just some open-source projects, that me my friends and my dad are working on.
