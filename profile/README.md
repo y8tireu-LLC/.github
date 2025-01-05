@@ -1,5 +1,13 @@
 # Welcome to y8tireu-LLC's GitHub Organization!
 
+
+          ___    _     _                                 _   _        
+ _   _   ( _ )  | |_  (_)  _ __    ___   _   _          | | | |   ___ 
+| | | |  / _ \  | __| | | | '__|  / _ \ | | | |  _____  | | | |  / __|
+| |_| | | (_) | | |_  | | | |    |  __/ | |_| | |_____| | | | | | (__ 
+ \__, |  \___/   \__| |_| |_|     \___|  \__,_|         |_| |_|  \___|
+ |___/                                                                
+
 **y8tireu-LLC** is an open-source initiative dedicated to creating high-quality games and applications that make technology accessible and enjoyable for everyone. We aim to empower developers and users worldwide by building innovative, community-driven solutions.
 
 ---
@@ -62,11 +70,3 @@ All our projects are open source and released under the [GNU GENERAL PUBLIC LICE
 
 Let’s build something amazing together! 🎉
 Disclaimer: This isn't an actual company. These are just some open-source projects, that me my friends and my dad are working on.
-
-##
-          ___    _     _                                 _   _        
- _   _   ( _ )  | |_  (_)  _ __    ___   _   _          | | | |   ___ 
-| | | |  / _ \  | __| | | | '__|  / _ \ | | | |  _____  | | | |  / __|
-| |_| | | (_) | | |_  | | | |    |  __/ | |_| | |_____| | | | | | (__ 
- \__, |  \___/   \__| |_| |_|     \___|  \__,_|         |_| |_|  \___|
- |___/                                                                
